@@ -1,0 +1,23 @@
+*{
+  font-family: 'Hahmlet', serif;
+}
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+color {
+  background-color: rgba(232, 222, 209);
+  background-color: rgba(54, 41, 183);
+  background-color: rgba(17, 38, 60);
+  background-color: rgba(73, 73, 73);
+}
